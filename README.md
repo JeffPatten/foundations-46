@@ -19,5 +19,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 1 Day 3` | Making Decisions 1 | https://strategiced.zoom.us/rec/share/5gP3-rIAXD3tzry69jf_JrTJ64zEE004e8mKv-LgJ3qqQLfH2Rp3iz5_0Gg07Ac6.Q1rF3c8tgVdYSDVC |
 | `Week 1 Day 4` | Making Decisions 2 | https://strategiced.zoom.us/rec/share/P_aJqLRUY-hmiPTnYSlLpdRAXh-LevuOB1_OUf2IQFoQ9KfJvNuII3iInNKoUlUK.5GzWBQY1NhdGtNJI |
 | `Week 1 Day 4` | Week 1 Review | https://strategiced.zoom.us/rec/share/nO-JR5-cmKkgd--cb5EUddljMNrsb1-PJWVDO6mROtAAwkbqOcC6LfmWFmxE653M.rqVdkPKUsNbBFkGv |
-
 | `Week 2 Day 1` | Functions 1 | https://strategiced.zoom.us/rec/share/pJ9EF8YVr6pS2fm6Z9FLFqqglIFyDoXkuGxmnOhrZtVFqShIBZIHjaYg3XMXQM0L.O_sRBDtL6OXqC4aQ |
