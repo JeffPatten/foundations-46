@@ -25,3 +25,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 3` | Functions 2 | https://strategiced.zoom.us/rec/share/ZqdkotgiaAC1l2vJiScJ-e0gsqWef_ucsODo_497Pp698q4nHU7k1qCx8NnrCrsU.0y2uR099T-tdwasT |
 | `Week 2 Day 4` | Functions 3 | https://strategiced.zoom.us/rec/share/DEAmBniI9xDoQAI2yvL9BwbrSsVRof0KZkwPZAI-glwiEcS8WzPBeVXZAf0PpHnL.TSKpTo01u16iZqid |
 | `Week 2 Day 5` | Week 2 Review | https://strategiced.zoom.us/rec/share/R0q88tkrqwuTFGs41hZIb7nwcU_j13OrC0mEsugBYCGMl9IxT9SeCtp7V4ecbh7G.UP5ay_uadY4O-EVQ |
+| `Week 2 Day 5` | Week 2 Review | https://strategiced.zoom.us/rec/share/R0q88tkrqwuTFGs41hZIb7nwcU_j13OrC0mEsugBYCGMl9IxT9SeCtp7V4ecbh7G.UP5ay_uadY4O-EVQ |
+| `Week 3 Day 1` | HTML & CSS 1 | https://strategiced.zoom.us/rec/share/83xwfQ5wdO_UWNOUsVKglkg5FvokBW2F1ZQt24NsgUIb9vdIwEwt6o8xwjE1auU.fGCFfQqseNSqBadd |
+| `Week 3 Day 2` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/P0Nrwog25nB_N_S6f-M4FcmLg-wtj4k7_g5dzE4FOVfgZN16-aZUo9X5E0K_v-cz.Vjvs3P-LhQWkfpXF |

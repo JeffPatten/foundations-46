@@ -1,0 +1,22 @@
+h1 {
+    color: firebrick;
+}
+
+div p {
+ color:cornflowerblue
+}
+
+div h1 {
+    color:coral
+}
+
+div {
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: orange;
+}
+
+div h6 {
+    color: blue;
+}
