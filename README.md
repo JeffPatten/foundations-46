@@ -28,3 +28,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 5` | Week 2 Review | https://strategiced.zoom.us/rec/share/R0q88tkrqwuTFGs41hZIb7nwcU_j13OrC0mEsugBYCGMl9IxT9SeCtp7V4ecbh7G.UP5ay_uadY4O-EVQ |
 | `Week 3 Day 1` | HTML & CSS 1 | https://strategiced.zoom.us/rec/share/83xwfQ5wdO_UWNOUsVKglkg5FvokBW2F1ZQt24NsgUIb9vdIwEwt6o8xwjE1auU.fGCFfQqseNSqBadd |
 | `Week 3 Day 2` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/P0Nrwog25nB_N_S6f-M4FcmLg-wtj4k7_g5dzE4FOVfgZN16-aZUo9X5E0K_v-cz.Vjvs3P-LhQWkfpXF |
+| `Week 3 Day 3` | Interactive Web Pages 1 | https://strategiced.zoom.us/rec/share/dU-XGZ5jHM1YtON7KoWgWbZSYokj3i2RrHZ7GzAF2OzXuw_mylzRXS2ZtglDLwzo.WK4BCBP-gp1wjEGm & https://strategiced.zoom.us/rec/share/loCNvD5q01TYs6-rNw_L3g0lkalHqHsyz_63_uRAEkUV_nJW7_XyY86_5xm8wYwL.AaR-saTzqeiUYfgH|
+| `Week 3 Day 4` | Interactive Web Pages 2 | https://strategiced.zoom.us/rec/share/VcR_l82xSqF9XCpTc4XuqTny04mdy3UxXzZsCvBVtSSJZwQeB7uuK4x9dSlKSw.UbOtCuXt3h2a7X2C |
+| `Week 3 Day 5` | Week 3 Review | https://strategiced.zoom.us/rec/share/XvLj9IeqM9V7-wkSYGCg34g99jRD03YvrSjVNKcl417rwHJ7cd2BVJZW7Q7dgwNZ.ID7ulPq5cm200cCV |
