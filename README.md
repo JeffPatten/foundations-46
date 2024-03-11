@@ -31,3 +31,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 3` | Interactive Web Pages 1 | https://strategiced.zoom.us/rec/share/dU-XGZ5jHM1YtON7KoWgWbZSYokj3i2RrHZ7GzAF2OzXuw_mylzRXS2ZtglDLwzo.WK4BCBP-gp1wjEGm & https://strategiced.zoom.us/rec/share/loCNvD5q01TYs6-rNw_L3g0lkalHqHsyz_63_uRAEkUV_nJW7_XyY86_5xm8wYwL.AaR-saTzqeiUYfgH|
 | `Week 3 Day 4` | Interactive Web Pages 2 | https://strategiced.zoom.us/rec/share/VcR_l82xSqF9XCpTc4XuqTny04mdy3UxXzZsCvBVtSSJZwQeB7uuK4x9dSlKSw.UbOtCuXt3h2a7X2C |
 | `Week 3 Day 5` | Week 3 Review | https://strategiced.zoom.us/rec/share/XvLj9IeqM9V7-wkSYGCg34g99jRD03YvrSjVNKcl417rwHJ7cd2BVJZW7Q7dgwNZ.ID7ulPq5cm200cCV |
+| `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/fYmVzHM1dXJzs19y2fVDwnu409lzENEQTwJI1YyhqVeKMunLvkKgKi6RQNb-41fG.t2jFqblORs0JOjA2 |
