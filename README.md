@@ -33,3 +33,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 5` | Week 3 Review | https://strategiced.zoom.us/rec/share/XvLj9IeqM9V7-wkSYGCg34g99jRD03YvrSjVNKcl417rwHJ7cd2BVJZW7Q7dgwNZ.ID7ulPq5cm200cCV |
 | `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/fYmVzHM1dXJzs19y2fVDwnu409lzENEQTwJI1YyhqVeKMunLvkKgKi6RQNb-41fG.t2jFqblORs0JOjA2 |
 | `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/pUrA42DUcrh8EdyJYP0IoqcY9wQbDtRnJZo1XFuhtwAWMCyP8zvnaPnTcXoDE5JI.kfxPs2TV1MPTS-4F & https://strategiced.zoom.us/rec/share/fhMPI6vA_9uOGRr_vgGgA_8aoj7kFrfBXypv3mWVQ-pI-51guFhHdehlAVgDFrc7.9Nyq6tsEWc1VERMJ |
+| `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/d1VyRHuuMkINFcOt9GCtTCBwfDP5xI-1VWFZZgI-NIHQkQcujjaEOTvtSS8VFe_q.I-oTQamtHqZXqWA6 & https://strategiced.zoom.us/rec/share/H_APO1sM7Zgr6VLYdzh7_mvi0keUqoROlANL2mJypcabJFstUAEBBPIM8dr6_u5R.kNrNp2yM8bnHTqUS |
