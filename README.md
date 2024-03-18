@@ -9,6 +9,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
  - [Eloquent Javascript - free online JS book](https://eloquentjavascript.net/)
  - [W3 Schools](https://www.w3schools.com/js/default.asp)
  - [Setting up local and remote repositories](https://strategiced.zoom.us/rec/share/V_cu70TfrRDC7dYEZ8TnqemIsUmLAXG7nh17DMiq0hTYX9HhYOgMXKQAOSQV-wwk.L-QOkNOisaO_Fop_)
+ - [Setting up PSQL and pgAdmin 4](https://www.youtube.com/watch?v=qyDnO2IoZ2U&ab_channel=BradyBott)
 
 
 ## Lecture recordings
@@ -34,3 +35,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/fYmVzHM1dXJzs19y2fVDwnu409lzENEQTwJI1YyhqVeKMunLvkKgKi6RQNb-41fG.t2jFqblORs0JOjA2 |
 | `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/pUrA42DUcrh8EdyJYP0IoqcY9wQbDtRnJZo1XFuhtwAWMCyP8zvnaPnTcXoDE5JI.kfxPs2TV1MPTS-4F & https://strategiced.zoom.us/rec/share/fhMPI6vA_9uOGRr_vgGgA_8aoj7kFrfBXypv3mWVQ-pI-51guFhHdehlAVgDFrc7.9Nyq6tsEWc1VERMJ |
 | `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/d1VyRHuuMkINFcOt9GCtTCBwfDP5xI-1VWFZZgI-NIHQkQcujjaEOTvtSS8VFe_q.I-oTQamtHqZXqWA6 & https://strategiced.zoom.us/rec/share/H_APO1sM7Zgr6VLYdzh7_mvi0keUqoROlANL2mJypcabJFstUAEBBPIM8dr6_u5R.kNrNp2yM8bnHTqUS |
+| `Week 4 Day 4` | Cryptography & Security | https://strategiced.zoom.us/rec/share/cJ5Vuk_LyuPWWDEi2w0HuPUT3vAi-NY6C1LGERXWYXYhfev7duDHlNT3qW1mgTLc.UuV_6S4PbarxZvBj |
+| `Week 4 Day 5` | Review | https://strategiced.zoom.us/rec/share/v9bypPKcmQm7iZdCLlUG8qsOzoknJ0M1p_7PmLGKLUZH9O9xsLpAczdFQhBepqgE.9gS2njarRuCBaj7i |
+| `Week 5 Day 3` | SQL Introduction | https://strategiced.zoom.us/rec/share/x_tm9Z3KClTsht2os2bSY4DaCM_FiQdV5BfiDnj6gO0C6Nbw5LeYciY1bLcL6qZT.MOok5wGQzIAiFEVm & https://strategiced.zoom.us/rec/share/0MgGUki4K-V1tq0PQSXoCKKwabFZjYwh-yB9C2wI6XhsMcVX_fqLvEy3ZlH6IcqH.MbSXJDbGHn8d8p2h |

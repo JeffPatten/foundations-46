@@ -1,0 +1,5 @@
+URI string - used to connect into the database from your projects in VScode
+
+postgresql://postgres:password@localhost:5432/databaseName
+
+What we use://(user the database belongs to):(your password)@localhost:(the port number we declared while installing)/(database name)
