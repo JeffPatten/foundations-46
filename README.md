@@ -37,4 +37,9 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/d1VyRHuuMkINFcOt9GCtTCBwfDP5xI-1VWFZZgI-NIHQkQcujjaEOTvtSS8VFe_q.I-oTQamtHqZXqWA6 & https://strategiced.zoom.us/rec/share/H_APO1sM7Zgr6VLYdzh7_mvi0keUqoROlANL2mJypcabJFstUAEBBPIM8dr6_u5R.kNrNp2yM8bnHTqUS |
 | `Week 4 Day 4` | Cryptography & Security | https://strategiced.zoom.us/rec/share/cJ5Vuk_LyuPWWDEi2w0HuPUT3vAi-NY6C1LGERXWYXYhfev7duDHlNT3qW1mgTLc.UuV_6S4PbarxZvBj |
 | `Week 4 Day 5` | Review | https://strategiced.zoom.us/rec/share/v9bypPKcmQm7iZdCLlUG8qsOzoknJ0M1p_7PmLGKLUZH9O9xsLpAczdFQhBepqgE.9gS2njarRuCBaj7i |
-| `Week 5 Day 3` | SQL Introduction | https://strategiced.zoom.us/rec/share/x_tm9Z3KClTsht2os2bSY4DaCM_FiQdV5BfiDnj6gO0C6Nbw5LeYciY1bLcL6qZT.MOok5wGQzIAiFEVm & https://strategiced.zoom.us/rec/share/0MgGUki4K-V1tq0PQSXoCKKwabFZjYwh-yB9C2wI6XhsMcVX_fqLvEy3ZlH6IcqH.MbSXJDbGHn8d8p2h |
+| `Week 5 Day 1` | SQL Introduction | https://strategiced.zoom.us/rec/share/x_tm9Z3KClTsht2os2bSY4DaCM_FiQdV5BfiDnj6gO0C6Nbw5LeYciY1bLcL6qZT.MOok5wGQzIAiFEVm & https://strategiced.zoom.us/rec/share/0MgGUki4K-V1tq0PQSXoCKKwabFZjYwh-yB9C2wI6XhsMcVX_fqLvEy3ZlH6IcqH.MbSXJDbGHn8d8p2h |
+| `Week 5 Day 2` | Data Modeling | https://strategiced.zoom.us/rec/share/-g_O92Elavklunm2_hmM86OgTJr_fSX9c3fJc8aHh3Nuw-yC7UnxCt-Yu_8OWKZm.NMwxYML93x_9fpDH |
+| `Week 5 Day 3` | SQL in Practice | https://strategiced.zoom.us/rec/share/H2gc5STbXKWtSVBgSVQw_u9J_K_4VfnT1FQHNdI2CIpFZzPPkEkOpIFKFFEVHdpe.chOYqeWVJnCqjg2q & https://strategiced.zoom.us/rec/share/FyAdGgAkF48qLKHyy_5gqsoghslP9o_ePl3hgI1spyRYKOTB0HE7unQRSEtIFMxA.rZV4LgBN1IOBeLiV |
+| `Week 5 Day 4` | Specs Trial Kickoff | https://strategiced.zoom.us/rec/share/RoFkUNb196swO-uV6PtYXsa7QNR4CgmspVCJbxxxE34I-LsjoTzPUPu3_r7zPOC4.lOPcdI7Brt4pIirx?startTime=1711031420000 |
+| `Week 6 Day 1` | QA & Testing | https://strategiced.zoom.us/rec/share/8yRNL05pNu3perCP8pRQVWwo0ljw-Hw4nVC9aUk9rINHk_l9ac_nlwruBo812rhD.ZRu1QvIfWNowEH0m |
+| `Week 6 Day 2` | Automation | https://strategiced.zoom.us/rec/share/_AQpKL2enRReZ7PfbclBJTqbPmYFptOKRbtJFNA2xQLhLUwjgKwR3t6Yv3ni49nY.kf9hphUU8YavusGd |

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies List</title>
+    <link rel="stylesheet" href="/static/index.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>Movies List</h1>
+    </header>
+
+    <main>
+      <section>
+        <form id="add-movie-form">
+          <label for="add-movie-input">Add Movie</label>
+          <input
+            type="text"
+            name="movieTitle"
+            id="add-movie-input"
+            placeholder="Enter the name of a movie" />
+          <button type="submit">Add</button>
+        </form>
+      </section>
+
+      <section>
+        <ul id="movies-list"></ul>
+      </section>
+    </main>
+
+    <aside id="message"></aside>
+
+    <script src="/static/index.js"></script>
+  </body>
+
+</html>
