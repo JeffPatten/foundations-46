@@ -43,3 +43,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 6 Day 1` | QA & Testing | https://strategiced.zoom.us/rec/share/8yRNL05pNu3perCP8pRQVWwo0ljw-Hw4nVC9aUk9rINHk_l9ac_nlwruBo812rhD.ZRu1QvIfWNowEH0m |
 | Day 2 | Automation | https://strategiced.zoom.us/rec/share/_AQpKL2enRReZ7PfbclBJTqbPmYFptOKRbtJFNA2xQLhLUwjgKwR3t6Yv3ni49nY.kf9hphUU8YavusGd |
 | Day 3 | Deployment | https://strategiced.zoom.us/rec/share/BQ3QtjcRGL8mg-cjqhNf4d4nIbehse_a6IOnP721b8_BOTvAHYWwUwbb7Me2IfOC.hfvkqfrjIDSFEf1I |
+| Day 4 | DevOps | https://strategiced.zoom.us/rec/share/DaBzRv2H3H1tV2srOGVbX_ExtNP9sL4z5POoGnsrWNU604FpAysAjQqxYxUQ8rab.gY7BOfQZaXCuLkAA |
