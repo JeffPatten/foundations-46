@@ -45,5 +45,8 @@ module.exports = {
         `)
         .then(() => res.status(200))
         .catch(err => console.log(err))
+    },
+    getUserAppt: (req, res) => {
+        
     }
 }

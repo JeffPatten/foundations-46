@@ -20,6 +20,7 @@ const zipCodeInput = document.querySelector('#zip-code')
 function getProfileInfo() {
     axios.get('http://localhost:9876/user') 
         .then(res => {
+            console.log(res.data)
             const user = res.data[0]
 
             const {

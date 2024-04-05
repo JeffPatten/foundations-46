@@ -44,3 +44,6 @@ describe("Test the Google homepage", () => {
     expect(await currentPage.getText()).toBe('Images')
   })
 });
+
+
+// tagNAme - div, p, h1; class name - .className; id name = #idName

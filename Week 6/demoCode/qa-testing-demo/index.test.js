@@ -75,3 +75,20 @@ let testData = {
 //     const myObjTwo = {myNum: 4}
 //     expect(myObj).toBe(myObjTwo)
 //   })
+
+
+
+function sum (num1, num2) {
+  return num1 + num2;
+}
+
+describe('Tests for the Sum function', () => {
+  
+  test('description - should add 2 numbers together and return the sum', () => {
+    expect(sum(2, 38)).toBe(40)
+  })
+
+  test('should not be the difference between two numbers', ()=> {
+    expect(sum(2,38)).not.toBe(36)
+  })
+})

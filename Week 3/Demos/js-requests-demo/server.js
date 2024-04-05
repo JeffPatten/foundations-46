@@ -42,10 +42,12 @@ let characters = [
 
 app.get('/characters', (req, res) => {
     console.log('hit chars')
+    console.log(req.params)
     res.status(200).send(characters)
 })
 
 app.get('/character/:name', (req, res) => {
+    console.log(req.body, req.params, req.query)
     const { name } = req.params
     const index = characters.findIndex(char => char.firstName.toLowerCase() === name)
     res.status(200).send(characters[index])
@@ -64,6 +66,7 @@ app.get('/character', (req, res) => {
 let id = 4
 
 app.post('/character', (req, res) => {
+    console.log(req.body)
     let newChar = {...req.body, id}
     newChar.likes = newChar.likes.slice(0, 3)
     characters.unshift(newChar)

@@ -44,3 +44,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | Day 2 | Automation | https://strategiced.zoom.us/rec/share/_AQpKL2enRReZ7PfbclBJTqbPmYFptOKRbtJFNA2xQLhLUwjgKwR3t6Yv3ni49nY.kf9hphUU8YavusGd |
 | Day 3 | Deployment | https://strategiced.zoom.us/rec/share/BQ3QtjcRGL8mg-cjqhNf4d4nIbehse_a6IOnP721b8_BOTvAHYWwUwbb7Me2IfOC.hfvkqfrjIDSFEf1I |
 | Day 4 | DevOps | https://strategiced.zoom.us/rec/share/DaBzRv2H3H1tV2srOGVbX_ExtNP9sL4z5POoGnsrWNU604FpAysAjQqxYxUQ8rab.gY7BOfQZaXCuLkAA |
+| `Week 7 Day 1` | Algorithms | https://strategiced.zoom.us/rec/share/EHZAbT8z9u61SZ20UGTjVMa-FzrmDeEdie4XxbjhK3ObsqXG3ZqopiWLC8MVnIwk.y2zkxbLC2NRqRd75 |
+| Day 2 | Big O | https://strategiced.zoom.us/rec/share/THdR5uUYYcIHIwU7imJ1imaS6qoDq35cIleXY_ymX-yXlY2TXyf71FxQKX9LU-XW.6YX5Zw2bWTCPCQVk |
+| Day 3 | Data Structures | https://strategiced.zoom.us/rec/share/rCARBWD2PmL60gkkvivAV9gbWlA1ST17bS9jR9XOjTl9Jga5CwSkns5bsxbwZs83.VEr7aFu2ovuraVeK |
+| Day 4 | CS History | https://strategiced.zoom.us/rec/share/2nbIKcVMP_Epl0b8go-o9NnN1nJ8pvR2KrIkxo37xzuCN7qOTnJ3x4AXcuDe2xaZ.4oRaE_6x4ngPDe2e |
