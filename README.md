@@ -40,6 +40,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | Day 2 | Data Modeling | https://strategiced.zoom.us/rec/share/-g_O92Elavklunm2_hmM86OgTJr_fSX9c3fJc8aHh3Nuw-yC7UnxCt-Yu_8OWKZm.NMwxYML93x_9fpDH |
 | Day 3 | SQL in Practice | https://strategiced.zoom.us/rec/share/H2gc5STbXKWtSVBgSVQw_u9J_K_4VfnT1FQHNdI2CIpFZzPPkEkOpIFKFFEVHdpe.chOYqeWVJnCqjg2q & https://strategiced.zoom.us/rec/share/FyAdGgAkF48qLKHyy_5gqsoghslP9o_ePl3hgI1spyRYKOTB0HE7unQRSEtIFMxA.rZV4LgBN1IOBeLiV |
 | Day 4 | Specs Trial Kickoff | https://strategiced.zoom.us/rec/share/RoFkUNb196swO-uV6PtYXsa7QNR4CgmspVCJbxxxE34I-LsjoTzPUPu3_r7zPOC4.lOPcdI7Brt4pIirx?startTime=1711031420000 |
+| Day 5 | Database Review | https://strategiced.zoom.us/rec/share/Q2Mum6Z01Jd0Eh1fou496BOxcRDHkfwcXGiOSWcmtbpREa_HtYpN24tYtEewZjxW.PYTAEP1LonJyh-G9 |
 | `Week 6 Day 1` | QA & Testing | https://strategiced.zoom.us/rec/share/8yRNL05pNu3perCP8pRQVWwo0ljw-Hw4nVC9aUk9rINHk_l9ac_nlwruBo812rhD.ZRu1QvIfWNowEH0m |
 | Day 2 | Automation | https://strategiced.zoom.us/rec/share/_AQpKL2enRReZ7PfbclBJTqbPmYFptOKRbtJFNA2xQLhLUwjgKwR3t6Yv3ni49nY.kf9hphUU8YavusGd |
 | Day 3 | Deployment | https://strategiced.zoom.us/rec/share/BQ3QtjcRGL8mg-cjqhNf4d4nIbehse_a6IOnP721b8_BOTvAHYWwUwbb7Me2IfOC.hfvkqfrjIDSFEf1I |
