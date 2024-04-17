@@ -51,5 +51,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | Day 4 | CS History | https://strategiced.zoom.us/rec/share/2nbIKcVMP_Epl0b8go-o9NnN1nJ8pvR2KrIkxo37xzuCN7qOTnJ3x4AXcuDe2xaZ.4oRaE_6x4ngPDe2e |
 | `Week 8 Day 1` | Last Week Overview | https://strategiced.zoom.us/rec/share/p7wEItPOjmvWw4QJOQIWhj2Al86jiJrDWZD1ccDHAymQc9SDrKFKB7MTqwTIO3_J.ee3I2Y5ry_uDAK9N |
 | Day 2 | Demo Recording | https://strategiced.zoom.us/rec/share/rs15_X5SjCYCn6XcZXOrzGDpR7E0I3Ii0Fpf4yDU1MbhzlugZmR4Lh5wdkMCklWE.PEzpfbQI0bcxYk12?startTime=1713277845000 |
-| Day 3 | Portfolio |  |
+| Day 3 | Portfolio | https://strategiced.zoom.us/rec/share/KLXZdtz4DxmYM3c3Jd7ABq2f4p55Muz1kyk1hnAjqwKyeSDaBRjZbw-j_Pa_rtcQ.QwbJPpCuihUXQLK8 |
 | Day 4 | Self Reflection |  |
