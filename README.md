@@ -49,3 +49,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | Day 2 | Big O | https://strategiced.zoom.us/rec/share/THdR5uUYYcIHIwU7imJ1imaS6qoDq35cIleXY_ymX-yXlY2TXyf71FxQKX9LU-XW.6YX5Zw2bWTCPCQVk |
 | Day 3 | Data Structures | https://strategiced.zoom.us/rec/share/rCARBWD2PmL60gkkvivAV9gbWlA1ST17bS9jR9XOjTl9Jga5CwSkns5bsxbwZs83.VEr7aFu2ovuraVeK |
 | Day 4 | CS History | https://strategiced.zoom.us/rec/share/2nbIKcVMP_Epl0b8go-o9NnN1nJ8pvR2KrIkxo37xzuCN7qOTnJ3x4AXcuDe2xaZ.4oRaE_6x4ngPDe2e |
+| `Week 8 Day 1` | Last Week Overview | https://strategiced.zoom.us/rec/share/p7wEItPOjmvWw4QJOQIWhj2Al86jiJrDWZD1ccDHAymQc9SDrKFKB7MTqwTIO3_J.ee3I2Y5ry_uDAK9N |
+| Day 2 | Demo Recording | https://strategiced.zoom.us/rec/share/rs15_X5SjCYCn6XcZXOrzGDpR7E0I3Ii0Fpf4yDU1MbhzlugZmR4Lh5wdkMCklWE.PEzpfbQI0bcxYk12?startTime=1713277845000 |
+| Day 3 | Portfolio |  |
+| Day 4 | Self Reflection |  |
